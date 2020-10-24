@@ -1,2 +1,2 @@
 # CubeServer-Web
-The website for CubeServer's Plugin Repo
+The website for CubeServer's Plugin Repo. Coming soon.
